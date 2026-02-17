@@ -1,0 +1,10 @@
+node_modules/
+.DS_Store
+*.swp
+*.swo
+*~
+.cache/
+dist/
+.env
+.env.local
+npm-debug.log*

@@ -1,0 +1,25 @@
+{
+  "name": "raya-trade-manual",
+  "version": "1.0.0",
+  "description": "دليل راية تريد التفاعلي - النسخة الكاملة",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mohamedomar-creator/raya-trade-manual.git"
+  },
+  "keywords": [
+    "raya",
+    "trade",
+    "manual",
+    "interactive"
+  ],
+  "author": "Mohamed Omar",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
